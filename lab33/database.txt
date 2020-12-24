@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfGoods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Goods>
+    <Manufacture>2020-11-20T11:33:36.8280332+02:00</Manufacture>
+    <Name>Tablet</Name>
+    <Barcode>Xiaomi</Barcode>
+    <Expiration>2023-09-21T11:33:36.8338112+03:00</Expiration>
+    <Price>719</Price>
+  </Goods>
+  <Goods>
+    <Manufacture>2020-11-20T11:33:36.8339761+02:00</Manufacture>
+    <Name>Mouse</Name>
+    <Barcode>Xiaomi</Barcode>
+    <Expiration>2024-11-23T11:33:36.8339782+02:00</Expiration>
+    <Price>49</Price>
+  </Goods>
+  <Goods>
+    <Manufacture>2020-11-20T11:33:36.8339809+02:00</Manufacture>
+    <Name>Mouse</Name>
+    <Barcode>Nokia</Barcode>
+    <Expiration>2042-10-30T11:33:36.8339813+02:00</Expiration>
+    <Price>772</Price>
+  </Goods>
+</ArrayOfGoods>
